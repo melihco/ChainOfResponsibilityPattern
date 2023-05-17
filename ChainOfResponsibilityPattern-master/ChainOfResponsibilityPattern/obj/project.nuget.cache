@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeP05Vf/Ja4gQ089Dyyk8HvU+6PoNwSw5BlhriMZmxTpMlTay5iQGV7GAwdfJE0DCcXA6ozgyh9/dCR8eU0M4w==",
+  "success": true,
+  "projectFilePath": "/Users/melihtasoglan/Downloads/ChainOfResponsibilityPattern-master/ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/melihtasoglan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
