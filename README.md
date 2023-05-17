@@ -1,6 +1,4 @@
-# Chain Of Responsibility Pattern
-
-## The code sample using this pattern
+# The code sample using Chain Of Responsibility Pattern
 
 Here the code sample using this pattern, that you can find in *Program.cs*:
 
@@ -40,6 +38,4 @@ BlueHandler approved request 003 as Blue
 BlueHandler denied 999 as White
 ```
 
-## Post about this pattern
 
-The post (in Spanish) about the comments and explanation of this pattern with the code sample of this repository, (can be found here)[https://geeks.ms/jorge/2020/08/18/chain-of-responsibility-pattern/].
